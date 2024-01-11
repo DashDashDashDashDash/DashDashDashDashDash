@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+I'm a computer science student localized in Brazil.
 
 <!--
 **DashDashDashDashDash/DashDashDashDashDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
