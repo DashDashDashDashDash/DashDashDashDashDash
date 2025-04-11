@@ -1,6 +1,10 @@
 ### Hello
 
-I'm a computer science student localized in Brazil.
+I'm a system administrator currently localized in Brazil. Currently studying for a bachelors' degree in Computer Science, with an estimate of graduation in 2027.
+
+Currently reading [the-sysadmin-book.com](https://the-sysadmin-book.com/). It's good.
+
+Be aware about CompTIA here: [📢 STOP PAYING COMPTIA FOR A+ CERTIFICATIONS!](https://www.youtube.com/watch?v=uSW0Wg32QNI) | [Am I wrong about CompTIA?](https://www.youtube.com/watch?v=TmV8eAtXc3s)
 
 <!--
 **DashDashDashDashDash/DashDashDashDashDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
